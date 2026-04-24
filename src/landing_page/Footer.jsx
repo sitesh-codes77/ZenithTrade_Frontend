@@ -6,8 +6,8 @@ function Footer() {
         <footer className='border-top mt-5 pt-5'>
             <div className="container" >
                 <div className="row">
-                    <div className="col">
-                        <img src={zerodhalogo} alt="zerodhalogo" style={{ width: "50%", marginBottom: "2rem" }} />
+                    <div className="col mr-5 mt-2">
+                        <img src={zerodhalogo} alt="zerodhalogo" style={{ width: "55%", marginBottom: "2rem" }} />
                         <p className='text-muted'>&copy; 2010 - 2026, Zerodha Broking Ltd. All rights reserved</p>
                         <div className='d-flex justify-content-between mt-5'>
                             <i class="fa-brands fa-facebook footer-app"></i>
